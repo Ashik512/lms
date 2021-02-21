@@ -1,4 +1,5 @@
-#Library Management System Key Features:
+# Library Management System
+# Key Features:
 Two parts 
  1. One for Student
  2. One for Librarians
