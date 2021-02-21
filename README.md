@@ -2,7 +2,7 @@
 Key Features:
 Two parts
 1.One for Student
-2.One for Librarian
+2.One for Librarians
 
 After successful registration student can login
 Login as a Student:
